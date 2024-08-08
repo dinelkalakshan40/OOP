@@ -6,7 +6,7 @@ class Student {
 
     {
         name = "Kamal";
-        age = 20;
+        age = 22;
     }
 
     int age = 30;
