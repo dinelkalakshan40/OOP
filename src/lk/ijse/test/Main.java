@@ -15,7 +15,7 @@ class Student {
         name = "Supun";
         name = "Kamal";
 
-        age = 20;
+        age = 22;
         age = 30;
     }
 }
